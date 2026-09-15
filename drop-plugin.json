@@ -14,5 +14,29 @@
   "targets": [
     "client"
   ],
-  "entry": "dist/src/index.js"
+  "entry": "dist/src/index.js",
+  "checksum": "c673dbf3807a13921dffb08a8e6672eaa5bcea95ce2b8b40e0b03da07e3b760d",
+  "files": {
+    ".github/dependabot.yml": "fe156952d1952825377de8e48c90563a3ac19bb95a6e0ced8a2f498a0f20fdf6",
+    ".github/workflows/ci.yml": "654910bbd45b44eb03b681d4dc729687ee6c6617e9204ee6df0434dc70e9a56d",
+    ".gitignore": "e8bc935ce727f1809c792f4c5d26c5fc75ba2b7df7fc9390c56c8892f6a6007f",
+    "AGENTS.md": "8e86a9ea08cf27bae1e36d91ac624b971c97ac85fe04a604323de10451db4210",
+    "CLAUDE.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "dist/src/index.d.ts": "60ba995311126a1560bfd923d28e51351477e5ea50f68e6f1c666d045f303524",
+    "dist/src/index.js": "c673dbf3807a13921dffb08a8e6672eaa5bcea95ce2b8b40e0b03da07e3b760d",
+    "dist/test/epic.test.d.ts": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+    "dist/test/epic.test.js": "8919b86515586a9e834e20682b69ba17cae7768a23cba7057ad24ac23554fda9",
+    "dist/test/fixtures/epic.d.ts": "272345d93f21e7e71a87ea460ca104a33205ca465f3ae7374a9c4a43ba85333e",
+    "dist/test/fixtures/epic.js": "14531666b07bb7fc9f08741d3d00d736385c78a21b05d52e7792e1f53fa48c4d",
+    "eslint.config.mjs": "4cdf67d5a07b1a089d8f39e842a7de7532eb519752d60fe5ac706f42fb7bdc6f",
+    "GEMINI.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "package-lock.json": "cd47266ff7817a1c6c20c0ee615e060952e55137e7d76daea2389c17e3a570bd",
+    "package.json": "23d7fbdc849f7d8f06be1c8dfd4ead431f0d8cef668307c34e0612d686c60985",
+    "README.md": "c4124945fd8497ea2af75b569a41c004f287a780fd87ce60ebb0aa9dc04b441a",
+    "SECURITY.md": "1ed84c5e2293a1bda1e0d1650df39f5c03dba9a18ee6d8acff78cc10a6897d2d",
+    "src/index.ts": "185587c74f872cf4c1bfcfa2c37ad4d69040fde14de5988fe93d4289b9b3bcbf",
+    "test/epic.test.ts": "b40017dbafa9c3549bef0894618be277a1672ecfca330f55eb4564d2f278cb4b",
+    "test/fixtures/epic.ts": "0ce4a575428a451d479e990bc29b25a24f8489e94e74859d425996372c7eca85",
+    "tsconfig.json": "e67d6d62d5af3c653c4d1af30dea94d529c721708e54bd8609d748be627e79e5"
+  }
 }

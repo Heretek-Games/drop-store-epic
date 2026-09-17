@@ -215,6 +215,7 @@ export async function detectFromStorage(
 
 export default class EpicPlugin implements ClientPlugin {
   metadata = {
+    apiVersion: 2,
     id: "drop-store-epic",
     name: "Epic Games Store",
     version: "0.1.0",
